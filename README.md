@@ -1,4 +1,4 @@
-# Expressive Robotics Published Works
+# Expressive Robotics Published Works -- HRI 2023
 Repository for the accepted publications written by the late Expressive Robotics team at AV Company Motional
 
 # Communicating Lane Change Intent 
