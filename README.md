@@ -1,7 +1,7 @@
 # Expressive Robotics Published Works
 Repository for the accepted publications written by the late Expressive Robotics team at AV Company Motional
 
-# Communicating Lane Change Intent [a link] (Communicating Lane Change Intent.pdf)
+# Communicating Lane Change Intent [a link] (Communicating%20Lane%20Change%20Intent.pdf)
 This paper, lead authored by Seonghee Lee, describes research conducted in Virtual Reality about motion dynamic-based behaviors through which an autonomous vehicle can indicate its desire to change lanes in traffic.
 
 # Design Factors for Pedestrian-AV Interaction at Crosswalks
