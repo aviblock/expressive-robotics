@@ -1,4 +1,4 @@
-# Expressive Robotics Published Works -- HRI 2023
+# Expressive Robotics Published Works
 Repository for various accepted publications written by members of the late Expressive Robotics team at AV Company Motional
 
 # Communicating Lane Change Intent 
@@ -9,3 +9,6 @@ Repository for various accepted publications written by members of the late Expr
 
 # AV Interaction with First Responders
 [This paper](Pedestrian-AV%20Interaction%20Design%20Factors.pdf), lead authored by Seonghee Lee, describes research conducted through a series of interviews with various First Responders on how best to provide them with critical information about the autonomous vehicle's state in instances of failure/degradation requiring intervention.
+
+# Challenges and Opportunities in AV-Vulnerable Road User Interaction
+[This paper](Challenges_with_AV_VRU_Interaction.pdf), lead authored by Swapna Joshi, provides an overview of the current state of research and collaboration on applying HRI principles to the interaction between autonomous vehicles and all other road users. We acknowledge the challenges to furthering this work, and make recommendations regarding particularly impactful gaps to be filled.
