@@ -4,7 +4,7 @@ Repository for various accepted publications written by members of the late Expr
 # Communicating Lane Change Intent - HRI '23 LBR
 [This paper](Communicating%20Lane%20Change%20Intent.pdf), lead authored by Seonghee Lee, describes research conducted in Virtual Reality about motion dynamic-based behaviors through which an autonomous vehicle can indicate its desire to change lanes in traffic.
 
-# Design Factors for Pedestrian-AV Interaction at Crosswalks
+# Design Factors for Pedestrian-AV Interaction at Crosswalks - HRI '23 LBR
 [This paper](AV%20Interaction%20with%20First%20Responders.pdf), lead authored by Avram Block, describes research conducted in Virtual Reality about the design of visual displays (eHMI) used to give pedestrians a sense of comfort and safety when crossing in front of an autonomous vehicle.
 
 # AV Interaction with First Responders - HRI '23 LBR
